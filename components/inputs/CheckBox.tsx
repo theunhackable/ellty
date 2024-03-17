@@ -22,6 +22,7 @@ const CheckBox = ({
         w-6 h-6 border rounded-md
         checked:bg-[#2469F6]
         hover:checked:bg-[#5087F8]
+        checked:border-none
         bg-no-repeat bg-center
         after:bg-[length:40px] 
         checked:bg-[url('../public/white-check.svg')]
