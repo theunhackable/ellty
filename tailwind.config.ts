@@ -8,6 +8,9 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      boxShadow: {
+        'custom': '0px 0px 15px 0px #1414141F'
+      }
     },
   },
   plugins: [],
